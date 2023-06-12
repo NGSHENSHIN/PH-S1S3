@@ -27,10 +27,7 @@
 
 <font size="10"><b>VIDEOS</b></font>
 <br>
-<video controls width="500" height="300">
-	<source src="../上半年影片活动回顾/2023上半年影片回顾.mp4" type="video/mp4">
-</video>
-
+<a href="https://drive.google.com/drive/folders/1Voq4Uvc4UVvaFXbHpuZDPo-A_oaBadJ_?usp=sharing">Videos</a>
 </center>
 
 
