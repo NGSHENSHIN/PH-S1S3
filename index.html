@@ -25,14 +25,14 @@
 
 <font size="10"><b>PHOTO</b></font>
 <br>
-<font size ="5"><a href="https://drive.google.com/drive/mobile/folders/1nPsK86hsAwgr5qnciY0l7pzsByl36PpM">S1S3</a></font>
+<font size ="5"><a href="https://drive.google.com/drive/mobile/folders/1nPsK86hsAwgr5qnciY0l7pzsByl36PpM" target="_blank" >S1S3</a></font>
 
 <br>
 <br>
 
 <font size="10"><b>VIDEOS</b></font>
 <br>
-<font size="5"><a href="https://drive.google.com/drive/folders/1Voq4Uvc4UVvaFXbHpuZDPo-A_oaBadJ_?usp=sharing">Videos</a></font>
+<font size="5"><a href="https://drive.google.com/drive/folders/1Voq4Uvc4UVvaFXbHpuZDPo-A_oaBadJ_?usp=sharing" target="_blank" >Videos</a></font>
 
 
 </center>
