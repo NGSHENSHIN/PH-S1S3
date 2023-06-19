@@ -111,3 +111,13 @@ img {
 h2 {
 	font-family: arial;
 }
+footer{
+	text-align: center;
+	background-color: #063146;
+	color: white;
+	padding: 20px;
+	position: absolute;
+	left: -20px;
+	bottom: 0;
+	width: 100%;
+}
