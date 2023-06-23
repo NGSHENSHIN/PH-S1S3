@@ -11,7 +11,7 @@ const textAge = '岁'
 console.log(secretWebLink);
 console.log(textOfAge + ageClassS1S3 + textAge);
 
-
+/*
 // Password
 var password = "ph-s1s3";
 (function passcodeprotect() {
@@ -22,3 +22,4 @@ var password = "ph-s1s3";
     }
 }());
 alert('Correct Password');
+*/
