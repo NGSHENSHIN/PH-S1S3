@@ -13,9 +13,6 @@ console.log(secretWebLink);
 console.log(gamingLink)
 console.log(textOfAge + ageClassS1S3 + textAge);
 
-
-
-/*
 var password = "ph-s1s3";
 (function passcodeprotect() {
     var passcode = prompt("Enter PassCode to Enter the website");
@@ -25,48 +22,12 @@ var password = "ph-s1s3";
     }
 }());
 alert('Correct Password');
-*/
 
 
 
 
 
-/*
-var password = "ph-s1s3";
-if (once_per_session == 0)
-    passcodeprotect();
-else
-    loadornot();
-*/
 
 
-
-/*
-//var password = "ph-s1s3";
-function passcodeprotect() {
-var passcode = prompt("Enter PassCode to Enter the website");
-while (passcode !== password) {
-    alert("Incorrect PassCode");
-    return passcodeprotect();
-}
-alert('Correct Password');
-};
-*/
-
-
-
-
-/*
-// Password
-var password = "ph-s1s3";
-(function passcodeprotect() {
-    var passcode = prompt("Enter PassCode to Enter the website");
-    while (passcode !== password) {
-        alert("Incorrect PassCode");
-        return passcodeprotect();
-    }
-    alert('Correct Password');
-}());
-*/
 
 
