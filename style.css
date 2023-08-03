@@ -126,12 +126,14 @@ h2 {
 	font-family: arial;
 }
 
+.center{
+	padding-top: 5px;
+}
 
 footer {
 	position: absolute;
 	bottom: 0;
-	font-size: extra-large;
-	text-align: middle;
+	font-size: x-large;
 	text-align: center;
 	background-color: #063146;
 	color: white;
