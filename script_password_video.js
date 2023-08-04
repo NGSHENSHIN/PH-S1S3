@@ -2,7 +2,7 @@ function checkPassword() {
     var password = document.getElementById("password").value;
 
     // Replace 'your_password' with the actual password you want to use
-    if (password === "123") {
+    if (password === "ph-s1s3") {
         window.location.href = "https://drive.google.com/drive/folders/1Voq4Uvc4UVvaFXbHpuZDPo-A_oaBadJ_?usp=sharing";
     } else {
         var result = document.getElementById("result");
