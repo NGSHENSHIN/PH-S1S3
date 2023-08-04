@@ -13,6 +13,7 @@ console.log(secretWebLink);
 console.log(gamingLink)
 console.log(textOfAge + ageClassS1S3 + textAge);
 
+/*
 var password = "ph-s1s3";
 (function passcodeprotect() {
     var passcode = prompt("Enter PassCode to Enter the website");
@@ -22,7 +23,7 @@ var password = "ph-s1s3";
     }
 }());
 alert('Correct Password');
-
+*/
 
 
 
